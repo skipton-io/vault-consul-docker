@@ -1,0 +1,3 @@
+vault kv put user-passphrases/test passphrase="This is my PassPhrase"
+
+NON-ROOT token: s.fq2XFEbPAhQSGQf1hgsX6N2j

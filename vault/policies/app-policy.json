@@ -1,6 +1,6 @@
 {
   "path": {
-    "kv/data/app/*": {
+    "users/*": {
       "policy": "read"
     }
   }
